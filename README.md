@@ -20,7 +20,7 @@ BLTools is a utility designed to check and validate log files (cookies, sessions
   - Cookies Checker
   - Main Settings
   - Logs Tools
-  - Discord Checker![Uploading 9e18b0bc-70cf-487c-a8a1-0b5362086d62.webp…]()
+  - Discord Checker
 
 - 📊 **Real-Time Stats**: View counts for valid cookies, errors, remaining checks, and IP status.
 - ▶️ **Start/Stop Controls**: Run or pause checks with one click.
