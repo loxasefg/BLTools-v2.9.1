@@ -68,37 +68,6 @@ The executable (`BLTools.exe`) and helper tools are available via the [MEGA link
 
 ---
 
-## ❓ FAQ
-
-**Q: Is this version still functional?**  
-A: Functionality depends on current API changes by target platforms. Some services may block or fail checks.
-
-**Q: Who cracked this version?**  
-A: According to the UI, it was cracked by “Twizzy”. Original author unknown.
-
-**Q: Can I update this tool?**  
-A: No official updates are available for this cracked version. Consider using open-source alternatives if available.
-
----
-
-## 📜 Disclaimer
-
-This repository is provided “as-is” without warranty. The authors are not liable for any misuse, damages, or legal consequences arising from its use.
-
----
-
-## 🤝 Contributing
-
-This is a static release. No active development or contributions are accepted.
-
----
-
-## 📬 Contact
-
-For questions or reporting issues (non-illegal use only), contact via GitHub Issues.
-
----
-
 > 💡 *Always respect privacy, legality, and platform policies when using automation tools.*
 
 ---
