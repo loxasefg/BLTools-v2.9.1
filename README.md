@@ -29,8 +29,7 @@ BLTools is a utility designed to check and validate log files (cookies, sessions
 
 ## 🖥️ Screenshot
 
-![BLTools v2.9.1 Interface]([![Uploading 9e18b0bc-70cf-487c-a8a1-0b5362086d62.webp…]()
-])
+![Screenshot](https://nztcdn.com/files/9e18b0bc-70cf-487c-a8a1-0b5362086d62.webp)
 
 *Interface shows service selection, proxy loading, and real-time result tracking.*
 
